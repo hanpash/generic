@@ -4,7 +4,7 @@ MAINTAINER LanCache.Net Team <team@lancache.net>
 ENV GENERICCACHE_VERSION=2 \
     WEBUSER=www-data \
     CACHE_MEM_SIZE=500m \
-    CACHE_DISK_SIZE=500000m \
+    CACHE_DISK_SIZE=50000m \
     CACHE_MAX_AGE=100d \
     UPSTREAM_DNS="8.8.8.8 8.8.4.4" \
     BEAT_TIME=1h \
